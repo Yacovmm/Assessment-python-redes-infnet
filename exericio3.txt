@@ -1,0 +1,4 @@
+Arquivo: D:\Projetos\ProjectsPython\Assessment_DesenvolvimentoPython\Pipfile, tamanho: 151  Bytes 
+Arquivo: D:\Projetos\ProjectsPython\Assessment_DesenvolvimentoPython\2.py, tamanho: 237  Bytes 
+Arquivo: D:\Projetos\ProjectsPython\Assessment_DesenvolvimentoPython\1.py, tamanho: 772  Bytes 
+Arquivo: D:\Projetos\ProjectsPython\Assessment_DesenvolvimentoPython\3.py, tamanho: 1365 Bytes 
