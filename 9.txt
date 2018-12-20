@@ -1,0 +1,8 @@
+Sequencial: Tempo = 2.39 segundos.
+Thread: Tempo = 2.36 segundos.
+Multiprocessing: Tempo = 2.12 segundos
+
+Comparação dos tempos:
+O Sequencial fica aguardando o calculo terminar até que ele possa mover para a próxima linha.
+Já usando as threads o programa divide a lista pela quantidade de threads e cada thread vai ser responsável pela sua cota. O tempo não é perfeito, mas ganha-se algum resultado.
+Usando o multiprocessing o tempo diminuiu de forma considerável.
